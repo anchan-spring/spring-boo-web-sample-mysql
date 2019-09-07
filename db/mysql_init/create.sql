@@ -1,2 +1,2 @@
-create database sample;
-use sample;
+CREATE DATABASE IF NOT EXISTS SPRING-WEB-SAMPLE;
+USE SPRING-WEB-SAMPLE;
